@@ -84,7 +84,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %changelog
 * Web Oct 19 2022 Michael R. Davis <mrdvt@cpan.org> - 1.68-1
-- Update to 1.30 - to resolve bad signature issue on zip files with large member count
+- Updated to 1.68 - to resolve bad signature issue on zip files with large member count
 
 * Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.30-11
 - Mass rebuild 2013-12-27
