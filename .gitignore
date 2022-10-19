@@ -1,4 +1,4 @@
-Archive-Zip-*
+Archive-Zip-*/
 blib
 cover_db
 Makefile
